@@ -1,0 +1,16 @@
+Lab topics:
+
+1. sin, cos signal 
+2. exponential signal 
+3. Unit sample, ramp, step 
+4. Flipping, scaling (2n,2/n)
+5. Shifting 
+6. Z transformation 
+7. Image processing 
+	i.Gray to binary 
+        ii. Bright image histogram 
+        iii. Drak image histogram 
+        iv. Low contrast histogram 
+        v. High image histogram)
+ 8.gray to negative, gamma transformation     
+ 9. smoothing filter (1/9 &1/16) , sharpening filter
