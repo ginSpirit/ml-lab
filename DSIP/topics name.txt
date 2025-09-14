@@ -7,7 +7,7 @@ Lab topics:
 5. Shifting 
 6. Z transformation 
 7. Image processing 
-	i.Gray to binary 
+		i.Gray to binary 
         ii. Bright image histogram 
         iii. Drak image histogram 
         iv. Low contrast histogram 
